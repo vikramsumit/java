@@ -60,7 +60,7 @@ public class e {
     }
 
     public static void main(String[] args) {
-        int n = 8;
+        int n = 4;
         char board[][] = new char[n][n];
     
         // initialize
