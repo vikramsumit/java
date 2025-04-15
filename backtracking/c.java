@@ -1,3 +1,5 @@
+// FIND PERMUTATION AND COUNT IT
+
 public class c {
     public static int findpermutation(String str, String ans){
         //base case
