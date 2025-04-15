@@ -21,5 +21,5 @@ public class b {
         // findSubsets(str, " ", 0);
         int total = findSubsets(str, "", 0);
         System.out.println("Total subsets: " + total);
-    }
+    }   
 }
