@@ -1,0 +1,6 @@
+4
+awakening=snakefangs+wolfbane
+veritaserum=snakefangs+awakening
+dragontonic=snakefangs+velarin
+dragontonic=awakening+veritaserum
+dragontonic

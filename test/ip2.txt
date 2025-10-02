@@ -1,0 +1,8 @@
+6
+oculus=thunderbrew+jellfish
+felix=thunderbrew+pumpkin
+wigenweld=thunderbrew+ladybug
+wigenweld=oculus+felix
+thunderbrew=pumpkin+firefly
+maxima=pumpkin+ladybug
+wigenweld
