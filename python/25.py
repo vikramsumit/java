@@ -8,6 +8,8 @@ import sys
 
 # Complete the solve function below.
 def solve(s):
+    capitalized_s =  s.capitalize()
+    fptr.write(capitalized_s + '\n')
 
 if __name__ == '__main__':
     fptr = open(os.environ['OUTPUT_PATH'], 'w')
